@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpecrypt",
+        "uuid": 8470516,
+        "checksum": "eoc3hla"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
